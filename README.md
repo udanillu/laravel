@@ -10,6 +10,7 @@ Esse repositório foi criado com o intuito de ensinar a como criar uma Aplicaç�
 + ![Composer](https://getcomposer.org/Composer-Setup.exe) 
 + ![Git](https://git-scm.com/downloads)
 + ![Heroku](https://devcenter.heroku.com/articles/heroku-cli)
++ ![NPM](https://nodejs.org/en/)
 ```bash 
 $ composer global require laravel/installer
 ```
@@ -75,9 +76,11 @@ $ heroku config:set APP_KEY=
 $ heroku open
 ```
 
-pós ter desenvolvido todos os comandos, você será capaz de ver a sua aplicação rodando em um ambiente Cloud, conseguindo disponibilizar o link de acesso para seus colegas. Um exemplo de um site hospedado no ![Heroku](https://devcenter.heroku.com/articles/heroku-cli) é um ![Gerador de Nomes](https://gerador-nomes.herokuapp.com), que é hospedado grátis.
+pós ter desenvolvido todos os comandos, você será capaz de ver a sua aplicação rodando em um ambiente Cloud, conseguindo disponibilizar o link de acesso para seus colegas. Um exemplo de um site hospedado no ![Heroku](https://devcenter.heroku.com/articles/heroku-cli) é um ![Gerador de Nomes](https://gerador-nomes.herokuapp.com), que é hospedado grátis. Na tabela abaixo, nós podemos ver as versões das tecnologias usadas. 
 
-<table>
+<br>
+
+<table align="center">
   <tr>
     <td>Composer</td>
     <td>Heroku</td>
@@ -94,18 +97,20 @@ pós ter desenvolvido todos os comandos, você será capaz de ver a sua aplicaç
   </tr>
 </table>
 
+<br>
+
+### Como Rodar a Minha Aplicação?
+
+```bash
+$ npm install
+$ npm run dev
+# Abrir outro Terminal/CMD
+$ php artisan serve
+```
+
 <a href="https://www.linkedin.com/in/danillucruz/" alt="LinkedIn">
   <img src="images/linkedin.jpg" align="center" alt="LinkedIn">
 </a>
 
-## How to run the application:
-
-1) run shell: composer install
-2) run shell: php artisan key:generate
-3) create new Schema MySql
-4) create file .env (can copy from .env.example)
-5) configure your database variables in .env
-6) run shell: php artisan migrate
-7) run shell: php artisan serve
 
 
