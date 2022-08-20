@@ -94,11 +94,9 @@ pós ter desenvolvido todos os comandos, você será capaz de ver a sua aplicaç
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/udanillu" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-00243c?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/udanillu/"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/danillucruz/" alt="LinkedIn">
+  <img src="images/linkedin.jpg" align="center" alt="LinkedIn">
+</a>
 
 ## How to run the application:
 
