@@ -1,4 +1,4 @@
-<img src="images/laravel.jpg" alt="Laravel Banner">
+<img src="images/laraveltop.jpg" alt="Laravel Banner">
 
 
 
