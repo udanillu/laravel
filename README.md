@@ -97,8 +97,6 @@ pós ter desenvolvido todos os comandos, você será capaz de ver a sua aplicaç
   </tr>
 </table>
 
-<br>
-
 ### Como Rodar a Minha Aplicação?
 
 ```bash
