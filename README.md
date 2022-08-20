@@ -108,6 +108,8 @@ $ npm run dev
 $ php artisan serve
 ```
 
+<br>
+
 <a href="https://www.linkedin.com/in/danillucruz/" alt="LinkedIn">
   <img src="images/linkedin.jpg" align="center" alt="LinkedIn">
 </a>
