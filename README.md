@@ -2,7 +2,7 @@
 
 > Status: Developing 
 
-Esse repositório foi criado com o intuito de ensinar a como criar uma Aplicação de Login, com as tecnologias ![Laravel](https://laravel.com/) | ![Breeze](https://laravel.com/docs/9.x/starter-kits), irei disponibilizar os comando & links para o desenvolvimento do projeto. Não só isso, ensinarei como fazer upload da aplicação em uma Plataforma Cloud chamada ![Heroku](https://www.heroku.com/), usando a ferramenta ![Git](https://git-scm.com/downloads).
+Esse repositório foi criado com o intuito de ensinar a como criar uma Aplicação de Login, com as tecnologias [Laravel](https://laravel.com/) | ![Breeze](https://laravel.com/docs/9.x/starter-kits), irei disponibilizar os comando & links para o desenvolvimento do projeto. Não só isso, ensinarei como fazer upload da aplicação em uma Plataforma Cloud chamada ![Heroku](https://www.heroku.com/), usando a ferramenta ![Git](https://git-scm.com/downloads).
 
 ### Instalações Necessárias ☑️ 
 
