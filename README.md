@@ -76,7 +76,7 @@ $ heroku config:set APP_KEY=
 $ heroku open
 ```
 
-pós ter desenvolvido todos os comandos, você será capaz de ver a sua aplicação rodando em um ambiente Cloud, conseguindo disponibilizar o link de acesso para seus colegas. Um exemplo de um site hospedado no [Heroku](https://devcenter.heroku.com/articles/heroku-cli) é um [Gerador de Nomes](https://gerador-nomes.herokuapp.com), que é hospedado grátis. Na tabela abaixo, nós podemos ver as versões das tecnologias usadas. 
+Pós ter desenvolvido todos os comandos, você será capaz de ver a sua aplicação rodando em um ambiente Cloud, conseguindo disponibilizar o link de acesso para seus colegas. Um exemplo de um site hospedado no [Heroku](https://devcenter.heroku.com/articles/heroku-cli) é um [Gerador de Nomes](https://gerador-nomes.herokuapp.com), que é hospedado grátis. Na tabela abaixo, nós podemos ver as versões das tecnologias usadas. 
 
 <br>
 
